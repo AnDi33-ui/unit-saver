@@ -1,0 +1,48 @@
+# Informativa sulla privacy di UnitSaver — bozza
+
+**Da completare prima della pubblicazione:** inserisci il nome del soggetto
+responsabile dell'estensione e un indirizzo email di contatto, verifica la
+correttezza del testo e pubblicalo a un URL accessibile pubblicamente.
+
+Responsabile: [NOME O RAGIONE SOCIALE]
+Contatto: [EMAIL DI CONTATTO]
+Ultimo aggiornamento: [DATA]
+
+## Dati utilizzati
+
+UnitSaver analizza localmente il contenuto delle pagine HTTP e HTTPS visitate
+per riconoscere informazioni sui prodotti, tra cui titolo, prezzo, quantità
+e collegamento, e calcolare prezzi unitari. Il risultato dipende dalla
+struttura della pagina.
+
+Se scegli di salvare un prodotto, l'estensione conserva nel browser il suo
+titolo, URL, prezzo, quantità e prezzo unitario calcolato. L'URL può
+contenere parametri presenti nella pagina o nel collegamento originale.
+L'estensione conserva anche le preferenze e i domini che scegli di escludere.
+Il popup usa l'indirizzo della scheda attiva per mostrare il sito corrente e
+per permetterti di attivare o disattivare l'estensione su quel sito.
+
+## Utilizzo e condivisione
+
+Queste informazioni sono utilizzate per mostrare e confrontare prezzi
+unitari, ricordare prodotti e applicare le preferenze. La versione descritta
+elabora i dati sul dispositivo e non li invia a server dello sviluppatore,
+servizi di analisi o altre terze parti.
+
+La normale navigazione e l'eventuale apertura di un collegamento verso un
+negozio continuano a essere soggette alle pratiche del sito visitato e del
+browser, indipendentemente da questa estensione.
+
+## Conservazione e rimozione
+
+Le preferenze, i domini esclusi e i prodotti salvati rimangono nella memoria
+locale dell'estensione nel profilo del browser fino alla loro rimozione o
+alla disinstallazione dell'estensione. Puoi rimuovere i prodotti salvati e i
+siti esclusi dal popup. La disinstallazione rimuove i dati locali
+dell'estensione dal relativo profilo.
+
+## Contatti e modifiche
+
+Per domande o richieste relative a questa informativa, scrivi all'indirizzo
+indicato sopra. In caso di modifiche al funzionamento o al trattamento dei
+dati, questa informativa dovrà essere aggiornata.
